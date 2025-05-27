@@ -1,4 +1,5 @@
 ## ConMLP: MLP-based Self-Supervised Contrastive Learning for Skeleton Data Analysis and Action Recognition
+Advancing Skeleton-based Action Recognition: Exploring New Loss Functions and Architectures
 ### Download datasets
 NTU RGB+D and NTU RGB+D 120 datasets can be obtained at [here](https://github.com/shahroudy/NTURGB-D).
 
